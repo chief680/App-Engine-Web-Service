@@ -1,5 +1,5 @@
 # App Engine Web Service
-This is a walk through on creating a json to xml service on GCloud with AppEngine and Flask
+This is a walk through on creating a json to xml service on GCloud with App Engine and Flask
 
 # GCloud SDK
 - download the GCloud SDK
